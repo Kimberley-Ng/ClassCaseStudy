@@ -1,7 +1,7 @@
 # Shopify Now is the FinTech Case Study
 ## description
 ### table of contents
-
+! [Logo Image ] (shopify_logo.svg)
 
 # Question1
 > Shopify is a Canadian e-commerce company that services multiple merchants. Shopify provides them with online services to manage and start their businesses, specifically matters relating to technology and security. The intention was to create a platform that allowed for business owners to market their products with ease.
